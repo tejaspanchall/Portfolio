@@ -58,7 +58,7 @@ const Hero = () => {
                     variants={container(0)}
                     initial="hidden"
                     animate="visible"
-                    className='pb-16 text-6xl font-thin tracking-tigh lg:mt-16 lg:text8xl'>
+                    className='pb-16 text-5xl font-thin tracking-tigh lg:mt-16 lg:text8xl'>
                     Tejas Panchal
                   </motion.h1>
                   <motion.span 
